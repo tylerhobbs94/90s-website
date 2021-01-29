@@ -1,0 +1,67 @@
+body {
+    background-image: url("90\'s-workout-background2.jpg");
+}
+h1 { 
+    color:chartreuse;
+    text-decoration: underline;
+}
+.link-style1{
+    color:palevioletred;
+    text-decoration: underline;
+    position: absolute;
+    top: 100px;
+    right:28%;
+    font-size: 20px;
+}
+.link-style2{
+    color:palevioletred;
+    text-decoration: underline;
+    position: absolute;
+    top: 100px;
+    right:38%;
+    font-size: 20px;
+}
+.link-style3{
+    color:palevioletred;
+    text-decoration: underline;
+    position: absolute;
+    top: 100px;
+    right: 47%;
+    font-size: 20px;
+}
+.link-style4{
+    color:palevioletred;
+    text-decoration: underline;
+    position: absolute;
+    top: 100px;
+    right:54%;
+    font-size: 20px;
+}
+.link-style5{
+    color:palevioletred;
+    text-decoration: underline;
+    position: absolute;
+    top: 100px;
+    right:60%;
+    font-size: 20px;
+}
+
+p{
+    background-color: rgba(0, 0, 0, 0.63);
+    padding: 120;
+    color:chartreuse;
+    font-size: 50px;
+}
+.workout-list{
+    color: chartreuse;
+    font-size:20x;
+
+
+}
+.workout-diet{
+
+    color: chartreuse;
+    font-size:20px
+
+
+}
