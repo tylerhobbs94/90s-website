@@ -1,5 +1,19 @@
-body {
+body{
+    height: 100%;
+    width: 100%;
+}
+.background1{
     background-image: url("90\'s-workout-background2.jpg");
+}
+.background2{
+    background-image: url("90s-workout-background5.jpg");
+}
+.background3{
+    background-image: url("90s-workout-background4.jpeg");
+    height: 100%;
+}
+.background4{
+    background-image: url("90\'s-music-background.jpg");
 }
 h1 { 
     color:chartreuse;
@@ -64,4 +78,136 @@ p{
     font-size:20px
 
 
+}
+.fighters{
+float: left;
+position: absolute;
+top: 40%;
+left: 2%;
+
+}
+.foo{
+    float:left;
+    position: absolute;
+    top: 52.5%;
+    left: 4%;
+    font-size: 30px;
+}
+.NWA{
+float: left;
+position: absolute;
+top: 40%;
+left: 20%;
+
+}
+.NWA2 {
+float: right;
+position: absolute;
+top:52.5%;
+left:24%;
+font-size: 30px;
+
+
+}
+.Queen {
+    float:left;
+    position: absolute;
+    top:40%;
+    left:38% 
+}
+.Queen2{
+    float:left;
+    position: absolute;
+    top:52%;
+    left:41%;
+    font-size: 30px;
+}
+.icecube{
+    float: left;
+    position: absolute;
+    top: 40.5%;
+    left: 53%;
+}
+.icecube2{    
+    float:left;
+    position: absolute;
+    top:52.5%;
+    left:55%;
+    font-size: 30px;
+}
+.nirvana{
+    float: left;
+    position: absolute;
+    top: 40.5%;
+    left: 68%;
+
+}
+.nirvana2{
+    float:left;
+    position: absolute;
+    top:52.5%;
+    left:71%;
+    font-size: 30px;
+}
+.Big{
+    float: left;
+    position: absolute;
+    top: 40.5%;
+    left: 85%;
+}
+.big2{
+    float:left;
+    position: absolute;
+    top:52.5%;
+    left:85%;
+    font-size: 30px;
+}
+.rhcp{
+    float: left;
+    position: absolute;
+    top: 40.5%;
+    right:10%
+}
+.rhcp2{
+    position: absolute;
+    top:52.5%;
+    right:10%;
+    font-size: 30px;
+}
+.workout-picture1 {
+    float: left;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+.workout-picture2 {
+    float: left;
+    position: absolute;
+    top: 20%;
+    right: 2%
+}
+.workout-picture3 {
+    position: absolute;
+    bottom: 2%;
+    right:32%
+}
+.gymclothes1{
+position: absolute;
+bottom: 5%;
+left: 5%
+}
+.gymclothes2{
+    position: absolute;
+    bottom: 5%;
+    left:36%;
+}
+.gymclothes3{
+position: absolute;
+bottom: 5%;
+right: 4%
+}
+.notgreen{
+    color:chartreuse;
+    background-color: rgba(0, 0, 0, 0.63);
+    text-decoration:underline;
 }
